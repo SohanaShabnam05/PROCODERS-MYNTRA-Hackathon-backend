@@ -1,43 +1,9 @@
-
-# Backend of TravelWorld 🌍
-
-A Fullstack Tours & Travels Web App Using MERN Stack 💫
-
-## Frontend Repository
-
-- [TravelWorld Frontend Repository](https://github.com/shuence/Travel-World)
-
 ## Resources
 
 - [Express Docs](https://expressjs.com/)
 - [MongoDB Docs](https://docs.mongodb.com/)
 - [MongoDB Forum](https://www.mongodb.com/community/forums/)
 - [Stackoverflow](https://stackoverflow.com/)
-
-## Authors
-
-- [@Shuence](https://www.github.com/shuence) 💫
-
-## Badges
-
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-
-## Live Preview
-
-[TravelWorld 🌍](https://travelworldtours.netlify.app/)
-
-![image](https://github.com/shuence/FitClub/assets/65482186/4c863ee9-2e02-4e98-95c0-e122cf91320e)
-
-## Setup
-
-To Setup this project run
-
-```bash
-git clone <https://github.com/shuence/Backend-for-TravelWorld>
-cd Backend-for-TravelWorld
-yarn
-yarn dev
-```
 
 ## Environment Variables
 
@@ -110,23 +76,5 @@ Overall, building the backend of the TravelWorld app taught me valuable skills i
 ## Roadmap
 
 - Implement additional login options, such as Google signup.
-- Explore and integrate popular payment gateways for secure online transactions.
-- Enhance the app with modern features like real-time chat support and personalized recommendations.
-- Introduce advanced search filters for customized tour searches.
-- Integrate geolocation services for location-based tour suggestions.
-- Implement a user dashboard for managing and tracking bookings.
-- Implement Admin dashboard for managing and updating tours and other data.
 
-# Hi, I'm Shuence! 👋
-
-## 🚀 About Me
-
-I'm Shubham Pitekar, a passionate full-stack developer with expertise in ReactJS,NextJS, NodeJs,ExpressJS and MongoDb. I love turning ideas into reality on the web. I thrive on challenges and continuously seek opportunities to push my boundaries. Let's create impactful projects together!
-
-## 🛠 Skills
-
-JavaScript, HTML, CSS, React, Bootstrap, Node.js, Express, MongoDB.
-
-## Happy coding 💯
-
-Made with love from [Shuence](https://shuence.netlify.app) ❤️
+- Integrate geolocation services for location-based suggestions.
